@@ -1,0 +1,16 @@
+Flat_No,Num. of Bed Room,Num. of family member,Owner's Profession
+101,1,4,Doctor
+102,2,null,Businessman
+103,not available,3,Teacher
+104,2,5,Businessman
+105,3,4,Engineer
+106,NaN,2,Doctor
+107,N/A,6,Businessman
+108,1,3,Businessman
+109,2, ,Engineer
+110,1,2,Engineer
+111,NA,4,Businessman
+112,3,None,Businessman
+113,na,2,Teacher
+114,1,3,Doctor
+115,2,missing,Engineer
